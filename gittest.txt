@@ -1,1 +1,3 @@
-heeloo git
+<?php
+  echo "Hello Git"
+?>
